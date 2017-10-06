@@ -1,0 +1,15 @@
+{
+  "name": "croquis",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pioug/croquis.git"
+  },
+  "author": "Gilles Piou <gilles.piou@gmail.com> (https://www.piou.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pioug/croquis/issues"
+  },
+  "homepage": "https://github.com/pioug/croquis#readme"
+}
