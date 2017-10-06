@@ -12,6 +12,9 @@
     "url": "https://github.com/pioug/croquis/issues"
   },
   "homepage": "https://github.com/pioug/croquis#readme",
+  "scripts": {
+    "start": "node index.js"
+  },
   "devDependencies": {
     "shelljs": "0.7.8"
   }
