@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/pioug/croquis/issues"
   },
-  "homepage": "https://github.com/pioug/croquis#readme"
+  "homepage": "https://github.com/pioug/croquis#readme",
+  "devDependencies": {
+    "shelljs": "0.7.8"
+  }
 }
